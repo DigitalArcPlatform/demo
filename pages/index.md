@@ -2,14 +2,16 @@
 title: IDAH Community Archiving Template
 layout: homepage
 permalink: /
-pullquote: "Archives could and should go beyond the logics of possession, whether of physical or digital records, to prioritize human centered-values that position record creators not only as subjects, but as active agents in their own liberation."
-quoteattribution: "Marisa Hicks-Alcaraz"
 ---
 
-The [IDAH@IU team](https://idah.indiana.edu) often gets requests to support archiving projects. This repository provides a starting point, a template for using simple Github Pages, done in partnership with
-- [ImaginX en Movimiento (IXeM)](https://www.instagram.com/ixemcollective/?hl=en) co-founded by Dr. Marisa Hicks-Alcaraz, the [Center for Research on Race, Ethnicity and Society](https://crres.indiana.edu), and the [Asian Culture Center](https://asianresource.indiana.edu) at Indiana University Bloomington
-- Dr. Jazma Sutton and the [Remembering Freedom](https://longtownhistory.github.io/) descendant community in Greenville and Longtown, Ohio, for the community-archive project that inspired this template.
+The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
 
-Reach us:
-- [On our web site](https://idah.indiana.edu)
-- By email at idah at indiana.edu
+Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
+
+Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
+
+Principal Project Team:
+- Michelle Dalmau
+- Vanessa Elias
+- Kalani Craig
+- Jazma Sutton

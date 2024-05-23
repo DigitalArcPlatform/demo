@@ -10,7 +10,7 @@ externalurl:
 embedurl: 
 creationdate: "ca. 2018"
 type: "Physical Object"
-shortdesc: "A turquoise strap-back hat with a Grateful Dead dancing bear on the front "
+shortdesc: "This models how to post digital photos of objects contributed by community members in the collection."
 contributorquote: 
 categories: [ Clothing, Music ]
 tags: [  ]
