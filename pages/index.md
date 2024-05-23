@@ -10,7 +10,16 @@ The Archiving Out of the Box team supports community storytelling with a  digita
 
 Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
 
-## To use this template, [click here](https://github.com/DigitalArcPlatform/template), press the green "Use this template" button in the upper-right-hand corner, and "Create a new repository".
+To use the template:
+1. Create a [Github account](https://www.github.com/signup)
+1. Visit the template page
+1. Find the green "Use this template" button in the upper left-hand corner
+1. Choose the "Create a repository" option
+1. View our [quick start guide](https://digitalarcplatform.github.io/documentation/quickstart/)
+
+[View the template](https://github.com/DigitalArcPlatform/template){: .button}
+
+## About the DigitalArc team
 
 Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
 
