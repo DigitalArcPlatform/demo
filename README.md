@@ -5,7 +5,7 @@
 
 This DigitalArc demo repository provides a website template to communities looking for a free, easy-to-configure, and low-maintenance way to collect their stories digitally.
 
-The easiest way to use this theme is to fork the example site at **[LINK HERE]**.
+The easiest way to use this theme is to fork our template site at [https://github.com/DigitalArcPlatform/template](https://github.com/DigitalArcPlatform/template)
 
 **[![LIVE PREVIEW IMAGE HERE[2]]**
 
